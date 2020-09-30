@@ -1,0 +1,23 @@
+{
+  "name": "Backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon App/Api/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leomoraiscam/Meus-Links_Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leomoraiscam/Meus-Links_Backend/issues"
+  },
+  "homepage": "https://github.com/leomoraiscam/Meus-Links_Backend#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
